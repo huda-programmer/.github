@@ -1,26 +1,74 @@
-# SIB x Dicoding Capstone Project
+# 👋 Hi, I'm Huda
 
-![Website Preview](https://github.com/Nutrify-Dicoding/.github/blob/main/Front%20End%20Preview.jpg?raw=true)
+Frontend-focused developer with a strong interest in clean UI, scalable architecture, and thoughtful user experience.  
+I enjoy turning complex ideas into simple, elegant, and usable interfaces.
 
-Capstone project for SIB x Dicoding 2023 Batch 5
+---
 
-#### Team ID: C523-PS006
-#### Project Name: Nutrify
+## 🚀 What I Do
 
-![Logo](https://raw.githubusercontent.com/Nutrify-Dicoding/.github/main/nutrify-logo-100px.png)
+- Build responsive and mobile-safe web interfaces
+- Design clean UI systems with strong UX consideration
+- Refactor legacy code into maintainable structures
+- Focus on performance, accessibility, and clarity
 
+---
 
-#### Members
+## 🧠 Tech Stack
 
-![Team Members](https://github.com/Nutrify-Dicoding/.github/blob/main/Team%20Member.jpg?raw=true)
+**Frontend**
+- JavaScript (ES6+)
+- React
+- Next.js
+- Tailwind CSS
 
-| Name | Student ID | Role | LinkedIn | Github |
-| :------------------ | :------------- | :------------------ | :------------------ | :------------------ |
-| `Ridho Ahmad Fauzi` | `F248YB045` | `Front-End Web and Back-End` | [Click Me](LinkedInLink) | [Click Me](GitHubLink) |
-| `Rio Aldi Erwanto` | `F358YB091` | `Front-End Web and Back-End` | [Click Me](https://www.linkedin.com/in/rio-aldi-erwanto-44376820b/) | [Click Me](https://github.com/RioAldie) |
-| `Ahmad Pausi` | `F511YB102` | `Front-End Web and Back-End` | [Click Me](LinkedInLink) | [Click Me](GitHubLink) |
-| `Agustin Rahmawati` | `F248XB101` | `Front-End Web and Back-End` | [Click Me](LinkedInLink) | [Click Me](GitHubLink) |
-| `Abdurrahman` | `S009YB461` | `Full-Stack` | [Click Me](LinkedInLink) | [Click Me](GitHubLink) |
+**UI / UX**
+- Responsive & mobile-first design
+- Dark mode systems
+- Component-based architecture
 
+**Tools**
+- Git & GitHub
+- VS Code
+- Figma (for UI reference & collaboration)
 
+---
 
+## 📌 Currently Exploring
+
+- Advanced React patterns
+- Frontend performance optimization
+- Better mobile interaction patterns
+- Clean architecture for scalable frontend apps
+
+---
+
+## 🛠️ How I Work
+
+- Think before coding
+- Prefer clarity over cleverness
+- Small, readable components
+- Consistent state management
+- Mobile experience is not an afterthought
+
+---
+
+## 📈 GitHub Activity
+
+I use GitHub to:
+- Document learning progress
+- Build real-world projects
+- Experiment with UI patterns
+- Refine frontend architecture
+
+---
+
+## 🤝 Let’s Connect
+
+- GitHub: https://github.com/your-username
+- Portfolio: (optional)
+- LinkedIn: (optional)
+
+---
+
+> _“Good UI is invisible. Great UX feels natural.”_
